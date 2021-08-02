@@ -1,4 +1,5 @@
-#👋 HEY PEOPEL! I'm Lucas Suares!
+# 👋 HEY PEOPEL! I'm Lucas Suares!
+
 - 👀 I want to collaborate on projects that are here on GitHub, no matter what.
 - 🌱 So far I'm only studying Frontend, I already have a certain domain of HTML and CSS, and now I'm delving into JavaScript. I want to become a FulStack programmer.
 - 💞️ I'm still starting in this world of programming, I'll put everything I'm learning here.
