@@ -8,7 +8,7 @@ I'm a backend developer from Brazil.
 
 - 📚 I'm studying hard to start working in the area, but I have to finish high school first.
 - 💖 My favorite language so far is TypeScript.
-- 🏗️Caso queira me conversar ou construir algum projeto juntos é só me chamar! Minhas redes sociais estão no final desse Readme.
+- 🏗️If you want to talk to me or build a project together, just call me! My social networks are at the end of this Readme.
 
 **Languages and Tools:**
 
