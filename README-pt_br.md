@@ -1,16 +1,16 @@
-<h1 align="center">Hey! I'm Lucas Suares 👋</h1>
+<h1 align="center">Olá! Eu sou Lucas Suares 👋</h1>
 
 [English](README.md) | [Português](README-pt_br.md)
 
-I'm a backend developer from Brazil.
+Sou um desenvolvedor backend do Brasil.
 
-**About me**
+**Sobre mim**
 
-- 📚 I'm studying hard to start working in the area, but I have to finish high school first.
-- 💖 My favorite language so far is TypeScript.
-- 🏗️Caso queira me conversar ou construir algum projeto juntos é só me chamar! Minhas redes sociais estão no final desse Readme.
+- 📚 Estou estudando muito para começar a trabalhar na área, mas primeiro tenho que terminar o ensino médio.
+- 💖 Minha linguagem favorita até agora é TypeScript.
+- 🏗️Se você quiser falar comigo ou construir um projeto juntos, é só me ligar! Minhas redes sociais estão no final deste README.
 
-**Languages and Tools:**
+**Linguagens e ferramentas:**
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -22,7 +22,7 @@ I'm a backend developer from Brazil.
 
 <br>
 
-**I'm interested**
+**Tenho interesse**
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -40,13 +40,14 @@ I'm a backend developer from Brazil.
       <img
         align="center"
         src="https://github-readme-stats-lucassuares-01.vercel.app/api?username=Suares01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
-        alt="Anurag's github stats"
+        alt="Suares's github stats"
       />
     </th>
     <th>
       <img
         align="center"
         src="https://github-readme-stats-lucassuares-01.vercel.app/api/top-langs/?username=Suares01&layout=compact&theme=buefy&hide_border=true"
+        alt="Suares's top langauges"
       />
     </th>
   </tr>
@@ -55,7 +56,7 @@ I'm a backend developer from Brazil.
 <br>
 <br>
 
-> Not available yet.
+> Ainda não estão disponíveis.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](#)
