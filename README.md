@@ -8,7 +8,7 @@ I'm a backend developer from Brazil.
 
 - 📚 I'm studying hard to start working in the area, but I have to finish high school first.
 - 💖 My favorite language so far is TypeScript.
-- 🏗️Caso queira me conversar ou construir algum projeto juntos é só me chamar! Minhas redes sociais estão no final desse Readme.
+- 🏗️ If you want to talk to me or build a project together, just call me! Ways to get in touch with me are at the end of the Readme.
 
 **Languages and Tools:**
 
@@ -26,9 +26,10 @@ I'm a backend developer from Brazil.
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.JS-E10098?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=blue">
 </div>
 
 <br>
@@ -39,24 +40,24 @@ I'm a backend developer from Brazil.
     <th>
       <img
         align="center"
-        src="https://github-readme-stats-lucassuares-01.vercel.app/api?username=Suares01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
-        alt="Anurag's github stats"
+        src="https://github-readme-stats.vercel.app/api?username=Suares01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
+        alt="Suares's github stats"
       />
     </th>
     <th>
       <img
         align="center"
-        src="https://github-readme-stats-lucassuares-01.vercel.app/api/top-langs/?username=Suares01&layout=compact&theme=buefy&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suares01&layout=compact&theme=buefy&hide_border=true"
+        alt="Suares's github stats"
       />
     </th>
   </tr>
 </table>
 
 <br>
-<br>
 
-> Not available yet.
+**Contact me**
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=flat&labelColor=0D0D0D&logo=Gmail&Color=white)](#)
+<!-- [![Linkedin](https://img.shields.io/badge/Linkedin-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](#) -->
+[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=flat&labelColor=0D0D0D&logo=Gmail&Color=white)](lucas.trabalho7.ls@gmail.com)
