@@ -58,6 +58,4 @@ I'm a backend developer from Brazil.
 
 **Contact me**
 
-<!-- [![Linkedin](https://img.shields.io/badge/Linkedin-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](#) -->
-[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=flat&labelColor=0D0D0D&logo=Gmail&Color=white)](lucas.trabalho7.ls@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-suares-79b027229/)
