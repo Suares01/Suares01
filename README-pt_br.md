@@ -12,25 +12,22 @@ Sou um desenvolvedor backend do Brasil.
 
 **Linguagens e ferramentas:**
 
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
 **Tenho interesse**
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/Nest.JS-E10098?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=blue">
-</div>
+![Python](https://img.shields.io/badge/Python-ffdb4e?style=for-the-badge&logo=python&logoColor=33333b)
+![Prisma](https://img.shields.io/badge/Prisma-38a169?style=for-the-badge&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-316ce6?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 <br>
 <br>
@@ -59,6 +56,4 @@ Sou um desenvolvedor backend do Brasil.
 
 **Entre em contato**
 
-<!-- [![Linkedin](https://img.shields.io/badge/Linkedin-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](#) -->
-[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=flat&labelColor=0D0D0D&logo=Gmail&Color=white)](lucas.trabalho7.ls@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-suares-79b027229/)
