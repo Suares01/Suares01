@@ -46,14 +46,14 @@ I'm a backend developer from Brazil.
     <th>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Suares01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
+        src="https://github-readme-stats-five-indol-22.vercel.app/api?username=Suares01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
         alt="Suares's github stats"
       />
     </th>
     <th>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suares01&layout=compact&theme=buefy&hide_border=true"
+        src="https://github-readme-stats-five-indol-22.vercel.app/api/top-langs/?username=Suares01&layout=compact&theme=buefy&hide_border=true"
         alt="Suares's github stats"
       />
     </th>
